@@ -1,6 +1,6 @@
 >**NOTICIA**
 >
-> Este repositorio ha sido creado con el fin del apredizaje del lenguaje de programación PHP y el lenguaje de marcas HTML.
+> Este repositorio ha sido creado con el fin del apredizaje del lenguaje de programación `PHP` y el lenguaje de marcas `HTML`.
 
 
 # Login-API-BROWSER-UNIFI v1.0
