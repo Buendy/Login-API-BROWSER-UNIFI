@@ -14,7 +14,7 @@ $errores = [];
 
   session_start();
 	  if(isset($_SESSION['secompruebausuario']['usuariocomprobado'])){
-	  header("Location:./1651dsadDWE81as2--adw811868988D1--519819281618-81819812616.php");
+	  header("Location:./INDEX PHP DEL DIRECTORIO BROWSER.php");
 	  }	else {
 
 	
@@ -28,7 +28,7 @@ $errores = [];
 		} else {
 		  session_start();
 		  $_SESSION['secompruebausuario']['usuariocomprobado'] = $_POST['user'];
-		  header("Location:./1651dsadDWE81as2--adw811868988D1--519819281618-81819812616.php");
+		  header("Location:./INDEX PHP DEL DIRECTORIO BROWSER.php");
 		}
 	  }
   }	
